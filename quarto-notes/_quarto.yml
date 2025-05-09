@@ -16,6 +16,8 @@ website:
       - href: index.qmd
         text: Overview 
       - log.qmd 
+      - tasks.qmd
+      - links.qmd
 
 
 format:

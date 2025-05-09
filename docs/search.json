@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "General ideas",
     "section": "",
-    "text": "This repository collects ideas on the project *Activity-driven enhancement of complex fluids”.\nIt uses quarto to build the notes\n\nAims\nUse this to:\n\ndo some brainstorming\ntrack your progress\nshare useful links\n\n\n\n\n\n Back to top",
+    "text": "This repository collects ideas on the project Activity-driven enhancement of complex fluids.\nIt uses quarto to build the notes,",
     "crumbs": [
       "Overview"
     ]
@@ -31,6 +31,56 @@
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 9, 2025\n\n\nSetting up the molecular dynamics\n\n\nFrancesco Turci\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Log"
+    ]
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Useful links\n\nReference management with Zotero https://www.zotero.org\nHoomd-blue simulation toolkit https://glotzerlab.engin.umich.edu/hoomd-blue/\nQuarto, for note-taking and reproducible notebooks https://quarto.org\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Useful links"
+    ]
+  },
+  {
+    "objectID": "tasks.html",
+    "href": "tasks.html",
+    "title": "Tasks",
+    "section": "",
+    "text": "These are things you may want to start thinking about. Put an x inside the brackets when you are done.\n\n\n\n[] Get access to Statmech notes from Nigel\n[] Explore Chapter 4 of Frenkel & Smit\n[] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using hoomd-blue\n\n\n\n\n\n[] Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
+    "crumbs": [
+      "Tasks"
+    ]
+  },
+  {
+    "objectID": "tasks.html#research",
+    "href": "tasks.html#research",
+    "title": "Tasks",
+    "section": "",
+    "text": "[] Get access to Statmech notes from Nigel\n[] Explore Chapter 4 of Frenkel & Smit\n[] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using hoomd-blue",
+    "crumbs": [
+      "Tasks"
+    ]
+  },
+  {
+    "objectID": "tasks.html#admin",
+    "href": "tasks.html#admin",
+    "title": "Tasks",
+    "section": "",
+    "text": "[] Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
+    "crumbs": [
+      "Tasks"
+    ]
+  },
+  {
+    "objectID": "index.html#main-sections",
+    "href": "index.html#main-sections",
+    "title": "General ideas",
+    "section": "Main sections",
+    "text": "Main sections\n\nThe Log contains a diary\nThe Links contains a list of useful resources\nThe Tasks contains a checklist of things to do",
+    "crumbs": [
+      "Overview"
     ]
   }
 ]

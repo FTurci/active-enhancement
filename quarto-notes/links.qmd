@@ -1,0 +1,5 @@
+# Useful links
+
+- Reference management with Zotero [https://www.zotero.org](https://www.zotero.org)
+- Hoomd-blue simulation toolkit [https://glotzerlab.engin.umich.edu/hoomd-blue/](https://glotzerlab.engin.umich.edu/hoomd-blue/)
+- Quarto, for note-taking and reproducible notebooks [https://quarto.org](https://quarto.org)
