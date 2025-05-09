@@ -1,0 +1,26 @@
+project:
+  type: book 
+  output-dir: ../docs
+
+
+website:
+  title: "Activity -driven Enhancement of Complex Fluids
+  sidebar:
+    smooth-scroll: true
+    style: "docked"
+    search: true
+    collapse-level: 1
+    chapters::
+      - index.qmd
+      - log.qmd
+
+
+
+format:
+  html:
+    theme: cosmo
+    grid:
+      sidebar-width: 305px
+    toc: true
+    number-chapters: true
+    number-sections: true
