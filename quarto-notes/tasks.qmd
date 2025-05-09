@@ -7,6 +7,13 @@ These are things you may want to start thinking about. Put an x inside the brack
 - [] Get access to Statmech notes from Nigel
 - [] Explore Chapter 4 of Frenkel & Smit
 - [] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using `hoomd-blue`
+- [] Clone this repository and try and  ake some changes in a separate branch, e.g.
+
+```
+    git clone https://github.com/FTurci/active-enhancement.git
+    git branch sams
+    git checkout sams
+```
 
 ## Admin
 
