@@ -28,7 +28,7 @@
     "href": "tasks.html",
     "title": "Tasks",
     "section": "",
-    "text": "These are things you may want to start thinking about. Put an x inside the brackets when you are done.",
+    "text": "These are things you may want to start thinking about. Put an x inside the brackets when you are done.\n\n\n\n[] Get access to Statmech notes from Nigel\n[] Explore Chapter 4 of Frenkel & Smit\n[] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using hoomd-blue\n[] Clone this repository and try and ake some changes in a separate branch, e.g.\n\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams\n\n\n\n\n[] Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
     "crumbs": [
       "Tasks"
     ]
@@ -37,8 +37,8 @@
     "objectID": "tasks.html#research",
     "href": "tasks.html#research",
     "title": "Tasks",
-    "section": "Research",
-    "text": "Research\n\n[] Get access to Statmech notes from Nigel\n[] Explore Chapter 4 of Frenkel & Smit\n[] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using hoomd-blue\n[] Clone this repository and try and ake some changes in a separate branch, e.g.\n\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams",
+    "section": "",
+    "text": "[] Get access to Statmech notes from Nigel\n[] Explore Chapter 4 of Frenkel & Smit\n[] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using hoomd-blue\n[] Clone this repository and try and ake some changes in a separate branch, e.g.\n\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams",
     "crumbs": [
       "Tasks"
     ]
@@ -47,8 +47,8 @@
     "objectID": "tasks.html#admin",
     "href": "tasks.html#admin",
     "title": "Tasks",
-    "section": "Admin",
-    "text": "Admin\n\n[] Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
+    "section": "",
+    "text": "[] Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
     "crumbs": [
       "Tasks"
     ]
