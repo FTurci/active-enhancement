@@ -1,0 +1,36 @@
+[
+  {
+    "objectID": "diary/setting-up.html",
+    "href": "diary/setting-up.html",
+    "title": "Setting up the molecular dynamics",
+    "section": "",
+    "text": "Molecular dynamics is a fundamental tool to explore complex fluids.\nTo perform molecular dynamics we could\nAt different times during the project, we may want to do all of them. But, for a start, we will try and look at molecular dynamics at a high level using a high performance platform that can be accessed in Python, called hoomd-blue , developed by colleagues at the Univeristy of Michigan."
+  },
+  {
+    "objectID": "diary/setting-up.html#hoomd-blue",
+    "href": "diary/setting-up.html#hoomd-blue",
+    "title": "Setting up the molecular dynamics",
+    "section": "Hoomd-blue",
+    "text": "Hoomd-blue\nHOOMD-blue is a general-purpose particle simulation toolkit developed by the group of Sharon Glotzer (a glassy person…) at the University of Michigan.\n\nmain page https://glotzerlab.engin.umich.edu/hoomd-blue/\ndocumentation https://hoomd-blue.readthedocs.io/en/v5.2.0/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "General ideas",
+    "section": "",
+    "text": "This repository collects ideas on the project *Activity-driven enhancement of complex fluids”.\nIt uses quarto to build the notes\n\nAims\nUse this to:\n\ndo some brainstorming\ntrack your progress\nshare useful links\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "log.html",
+    "href": "log.html",
+    "title": "Log",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 9, 2025\n\n\nSetting up the molecular dynamics\n\n\nFrancesco Turci\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Log"
+    ]
+  }
+]

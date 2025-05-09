@@ -1,0 +1,29 @@
+---
+title: "Setting up the molecular dynamics"
+author: "Francesco Turci"
+date: "2025-05-09"
+---
+
+Molecular dynamics is a fundamental tool to explore complex fluids.
+
+::: {.callout-note appearance="minimal"}
+Can you list a below a few reasons **why** it is so important?
+:::
+
+To perform molecular dynamics we could
+
+-   write our *in-house* code
+
+-   use high-performance packages that perform well
+
+-   use flexible packages that and can be extended with out own code
+
+At different times during the project, we may want to do all of them. But, for a start, we will try and look at molecular dynamics at a **high level** using a high performance platform that can be accessed in **Python**, called `hoomd-blue` , developed by colleagues at the Univeristy of Michigan.
+
+## Hoomd-blue
+
+HOOMD-blue is a general-purpose particle simulation toolkit developed by the group of Sharon Glotzer (a glassy person...) at the University of Michigan.
+
+-   main page <https://glotzerlab.engin.umich.edu/hoomd-blue/>
+
+-   documentation <https://hoomd-blue.readthedocs.io/en/v5.2.0/>

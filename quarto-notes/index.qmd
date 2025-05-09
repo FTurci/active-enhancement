@@ -1,0 +1,18 @@
+---
+title: General ideas
+
+---
+
+This repository collects ideas  on the project *Activity-driven enhancement of complex fluids".
+
+It uses [quarto](https://www.quarto.org) to build the notes
+
+### Aims
+
+Use this to:
+
+- do some brainstorming
+- track your progress
+- share useful links
+
+

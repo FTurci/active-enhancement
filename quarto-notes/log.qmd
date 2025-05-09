@@ -1,0 +1,8 @@
+---
+title: "Log"
+listing:
+  contents: diary
+  type: table
+  sort: date
+---
+
