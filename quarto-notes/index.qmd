@@ -3,9 +3,13 @@ title: General ideas
 
 ---
 
-This repository collects ideas  on the project *Activity-driven enhancement of complex fluids".
+This repository collects ideas  on the project *Activity-driven enhancement of complex fluids*.
 
-It uses [quarto](https://www.quarto.org) to build the notes
+It uses [quarto](https://www.quarto.org) to build the notes,
+
+
+
+
 
 ### Aims
 
@@ -16,3 +20,8 @@ Use this to:
 - share useful links
 
 
+## Main sections
+
+- The [Log](log.qmd) contains a diary 
+- The [Links](links.qmd) contains a list of useful resources
+- The [Tasks](tasks.qmd) contains a checklist of things to do
