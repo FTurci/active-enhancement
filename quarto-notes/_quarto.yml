@@ -1,19 +1,21 @@
 project:
-  type: book 
+  type: website 
   output-dir: ../docs
 
 
 website:
-  title: "Activity -driven Enhancement of Complex Fluids"
+  title: "Activity-Driven Enhancement of Complex Fluids"
+  page-navigation: true
+  back-to-top-navigation: true
   sidebar:
     smooth-scroll: true
     style: "docked"
     search: true
     collapse-level: 1
-    chapters::
-      - index.qmd
-      - log.qmd
-
+    contents:
+      - href: index.qmd
+        text: Overview 
+      - log.qmd 
 
 
 format:
@@ -22,5 +24,5 @@ format:
     grid:
       sidebar-width: 305px
     toc: true
-    number-chapters: true
-    number-sections: true
+    # number-chapters: true
+    # number-sections: true
