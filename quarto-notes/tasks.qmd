@@ -1,0 +1,16 @@
+# Tasks
+
+These are things you may want to start thinking about. Put an x inside the brackets when you are done.
+
+## Research
+
+- [] Get access to Statmech notes from Nigel
+- [] Explore Chapter 4 of Frenkel & Smit
+- [] Attempt to reproduce Case study 4 in the same chapter using `hoomd-blue`
+
+## Admin
+
+- [] Finalise contract
+- [] Get info about your budget code
+- [] Obtain workstation/laptop
+- [] Find about your future office
