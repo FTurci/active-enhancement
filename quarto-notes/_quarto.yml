@@ -28,3 +28,6 @@ format:
     toc: true
     # number-chapters: true
     # number-sections: true
+
+execute:
+  freeze: auto
