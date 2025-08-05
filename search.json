@@ -102,6 +102,6 @@
     "href": "diary/2025-08-05.html#todo",
     "title": "Meeting on First MD Simulations",
     "section": "TODO",
-    "text": "TODO\n\n[] Continue Nigel’s Stat Mech course\n[] Try and make one particle active (check hoomd-blue docs)\n[] Read (to the best of your understanding) appendix C of Frenkel and Smit\n[] Help yourself with any resources on the Fluctuation-Dissipation theorem, for example Marconi et al. (which is also in your Zotero)\n[] Prepare a short explanation of the Fluctuation-Dissipation theorem (a simple/simplified derivation would suffice)\n\nyou can produce some notes\nyou can produce a presentation if you prefer\nit can just be a blackboard presentation with the assistance of some notes\n\n[] Have a quick look at the Disordered Matter course"
+    "text": "TODO\n\n[] Continue Nigel’s Stat Mech course\n[] Try and make one particle active (check hoomd-blue docs)\n[] Read (to the best of your understanding) appendix C of Frenkel and Smit\n[] Help yourself with any resources on the Fluctuation-Dissipation theorem,\n\nfor example Marconi et al. (which is also in your Zotero)\nthe best source in the end is Kubo’s original paper from 1966, also in Zotero\n\n[] Prepare a short explanation of the Fluctuation-Dissipation theorem (a simple/simplified derivation would suffice)\n\nyou can produce some notes\nyou can produce a presentation if you prefer\nit can just be a blackboard presentation with the assistance of some notes\n\n[] Have a quick look at the Disordered Matter course"
   }
 ]
