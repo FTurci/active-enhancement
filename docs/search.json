@@ -14,13 +14,33 @@
     "text": "Hoomd-blue\nHOOMD-blue is a general-purpose particle simulation toolkit developed by the group of Sharon Glotzer (a glassy person…) at the University of Michigan.\n\nmain page https://glotzerlab.engin.umich.edu/hoomd-blue/\ndocumentation https://hoomd-blue.readthedocs.io/en/v5.2.0/"
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Useful links",
+    "objectID": "log.html",
+    "href": "log.html",
+    "title": "Log",
     "section": "",
-    "text": "Useful links\n\nReference management with Zotero https://www.zotero.org\nHoomd-blue simulation toolkit https://glotzerlab.engin.umich.edu/hoomd-blue/\nQuarto, for note-taking and reproducible notebooks https://quarto.org\n\n\n\n\n\n Back to top",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nMay 9, 2025\n\n\nSetting up the molecular dynamics\n\n\nFrancesco Turci\n\n\n\n\n\n\nAug 5, 2025\n\n\nMeeting on First MD Simulations\n\n\nFrancesco Turci\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
-      "Useful links"
+      "Log"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "General ideas",
+    "section": "",
+    "text": "This repository collects ideas on the project Activity-driven enhancement of complex fluids.\nIt uses quarto to build the notes,",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#main-sections",
+    "href": "index.html#main-sections",
+    "title": "General ideas",
+    "section": "Main sections",
+    "text": "Main sections\n\nThe Log contains a diary\nThe Links contains a list of useful resources\nThe Tasks contains a checklist of things to do",
+    "crumbs": [
+      "Overview"
     ]
   },
   {
@@ -54,33 +74,13 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "General ideas",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Useful links",
     "section": "",
-    "text": "This repository collects ideas on the project Activity-driven enhancement of complex fluids.\nIt uses quarto to build the notes,",
+    "text": "Useful links\n\nReference management with Zotero https://www.zotero.org\nHoomd-blue simulation toolkit https://glotzerlab.engin.umich.edu/hoomd-blue/\nQuarto, for note-taking and reproducible notebooks https://quarto.org\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#main-sections",
-    "href": "index.html#main-sections",
-    "title": "General ideas",
-    "section": "Main sections",
-    "text": "Main sections\n\nThe Log contains a diary\nThe Links contains a list of useful resources\nThe Tasks contains a checklist of things to do",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "log.html",
-    "href": "log.html",
-    "title": "Log",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nMay 9, 2025\n\n\nSetting up the molecular dynamics\n\n\nFrancesco Turci\n\n\n\n\n\n\nAug 5, 2025\n\n\nMeeting on First MD Simulations\n\n\nFrancesco Turci\n\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Log"
+      "Useful links"
     ]
   },
   {
@@ -89,13 +89,6 @@
     "title": "Meeting on First MD Simulations",
     "section": "",
     "text": "Sam succeded in reproducing Case study 4 and 5 of chapter 4 of Frenkel and Smit. These entail:\n\nworking in NVE\nextracting energies\nsetting up configurations\nmeasuring \\(g(r)\\)\nsampling the dynamics\nmeasure MSD and velocity ACF"
-  },
-  {
-    "objectID": "diary/2025-08-05.html#hoomd-blue",
-    "href": "diary/2025-08-05.html#hoomd-blue",
-    "title": "Meeting on First MD Simulations",
-    "section": "Hoomd-blue",
-    "text": "Hoomd-blue\nHOOMD-blue is a general-purpose particle simulation toolkit developed by the group of Sharon Glotzer (a glassy person…) at the University of Michigan.\n\nmain page https://glotzerlab.engin.umich.edu/hoomd-blue/\ndocumentation https://hoomd-blue.readthedocs.io/en/v5.2.0/"
   },
   {
     "objectID": "diary/2025-08-05.html#done",
@@ -109,6 +102,6 @@
     "href": "diary/2025-08-05.html#todo",
     "title": "Meeting on First MD Simulations",
     "section": "TODO",
-    "text": "TODO\n\n[] Continue Nigel’s Stat Mech course\n[] Read (to the best of your understanding) appendix C of Frenkel and Smit\n[] Help yourself with any resources on the Fluctuation-Dissipation theorem, for example (Marconi et al.)[https://linkinghub.elsevier.com/retrieve/pii/S0370157308000768] (which is also in your Zotero)\n[] Prepare a short explanation of the Fluctuation-Dissipation theorem (a simple/simplified derivation would suffice)\n\nyou can produce some notes\nyou can produce a presentation if you prefer\nit can just be a blackboard presentation with the assistance of some notes"
+    "text": "TODO\n\n[] Continue Nigel’s Stat Mech course\n[] Read (to the best of your understanding) appendix C of Frenkel and Smit\n[] Help yourself with any resources on the Fluctuation-Dissipation theorem, for example (Marconi et al.)[https://linkinghub.elsevier.com/retrieve/pii/S0370157308000768] (which is also in your Zotero)\n[] Prepare a short explanation of the Fluctuation-Dissipation theorem (a simple/simplified derivation would suffice)\n\nyou can produce some notes\nyou can produce a presentation if you prefer\nit can just be a blackboard presentation with the assistance of some notes\n\n[] Have a quick look at the Disordered Matter course https://fturci.github.io/course-disordered-matter"
   }
 ]
