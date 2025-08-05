@@ -14,43 +14,13 @@
     "text": "Hoomd-blue\nHOOMD-blue is a general-purpose particle simulation toolkit developed by the group of Sharon Glotzer (a glassy person…) at the University of Michigan.\n\nmain page https://glotzerlab.engin.umich.edu/hoomd-blue/\ndocumentation https://hoomd-blue.readthedocs.io/en/v5.2.0/"
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Useful links",
+    "objectID": "log.html",
+    "href": "log.html",
+    "title": "Log",
     "section": "",
-    "text": "Useful links\n\nReference management with Zotero https://www.zotero.org\nHoomd-blue simulation toolkit https://glotzerlab.engin.umich.edu/hoomd-blue/\nQuarto, for note-taking and reproducible notebooks https://quarto.org\n\n\n\n\n\n Back to top",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nMay 9, 2025\n\n\nSetting up the molecular dynamics\n\n\nFrancesco Turci\n\n\n\n\n\n\nAug 5, 2025\n\n\nMeeting on First MD Simulations\n\n\nFrancesco Turci\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
-      "Useful links"
-    ]
-  },
-  {
-    "objectID": "tasks.html",
-    "href": "tasks.html",
-    "title": "Tasks",
-    "section": "",
-    "text": "These are things you may want to start thinking about. Put an x inside the brackets when you are done.\n\n\n\n[] Get access to Statmech notes from Nigel\n[] Explore Chapter 4 of Frenkel & Smit\n[] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using hoomd-blue\n[] Clone this repository and try and ake some changes in a separate branch, e.g.\n\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams\n\n\n\n\n[] Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
-    "crumbs": [
-      "Tasks"
-    ]
-  },
-  {
-    "objectID": "tasks.html#research",
-    "href": "tasks.html#research",
-    "title": "Tasks",
-    "section": "",
-    "text": "[] Get access to Statmech notes from Nigel\n[] Explore Chapter 4 of Frenkel & Smit\n[] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using hoomd-blue\n[] Clone this repository and try and ake some changes in a separate branch, e.g.\n\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams",
-    "crumbs": [
-      "Tasks"
-    ]
-  },
-  {
-    "objectID": "tasks.html#admin",
-    "href": "tasks.html#admin",
-    "title": "Tasks",
-    "section": "",
-    "text": "[] Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
-    "crumbs": [
-      "Tasks"
+      "Log"
     ]
   },
   {
@@ -74,13 +44,64 @@
     ]
   },
   {
-    "objectID": "log.html",
-    "href": "log.html",
-    "title": "Log",
+    "objectID": "tasks.html",
+    "href": "tasks.html",
+    "title": "Tasks",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 9, 2025\n\n\nSetting up the molecular dynamics\n\n\nFrancesco Turci\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "These are things you may want to start thinking about. Put an x inside the brackets when you are done.\n\n\n\nGet access to Statmech notes from Nigel\nExplore Chapter 4 of Frenkel & Smit\nAttempt to reproduce Case study 4 (simulation of a small Lennard-Jones system in the NVT ensemble) in the same chapter using hoomd-blue\nClone this repository and try and make some changes in a separate branch, e.g.\n\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams\n\n\n\n\nFinalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
     "crumbs": [
-      "Log"
+      "Tasks"
     ]
+  },
+  {
+    "objectID": "tasks.html#research",
+    "href": "tasks.html#research",
+    "title": "Tasks",
+    "section": "",
+    "text": "Get access to Statmech notes from Nigel\nExplore Chapter 4 of Frenkel & Smit\nAttempt to reproduce Case study 4 (simulation of a small Lennard-Jones system in the NVT ensemble) in the same chapter using hoomd-blue\nClone this repository and try and make some changes in a separate branch, e.g.\n\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams",
+    "crumbs": [
+      "Tasks"
+    ]
+  },
+  {
+    "objectID": "tasks.html#admin",
+    "href": "tasks.html#admin",
+    "title": "Tasks",
+    "section": "",
+    "text": "Finalise contract\n[] Get info about your budget code\n[] Obtain workstation/laptop\n[] Find about your future office",
+    "crumbs": [
+      "Tasks"
+    ]
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Useful links\n\nReference management with Zotero https://www.zotero.org\nHoomd-blue simulation toolkit https://glotzerlab.engin.umich.edu/hoomd-blue/\nQuarto, for note-taking and reproducible notebooks https://quarto.org\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Useful links"
+    ]
+  },
+  {
+    "objectID": "diary/2025-08-05.html",
+    "href": "diary/2025-08-05.html",
+    "title": "Meeting on First MD Simulations",
+    "section": "",
+    "text": "Sam succeded in reproducing Case study 4 and 5 of chapter 4 of Frenkel and Smit. These entail:\n\nworking in NVE\nextracting energies\nsetting up configurations\nmeasuring \\(g(r)\\)\nsampling the dynamics\nmeasure MSD and velocity ACF"
+  },
+  {
+    "objectID": "diary/2025-08-05.html#done",
+    "href": "diary/2025-08-05.html#done",
+    "title": "Meeting on First MD Simulations",
+    "section": "",
+    "text": "Sam succeded in reproducing Case study 4 and 5 of chapter 4 of Frenkel and Smit. These entail:\n\nworking in NVE\nextracting energies\nsetting up configurations\nmeasuring \\(g(r)\\)\nsampling the dynamics\nmeasure MSD and velocity ACF"
+  },
+  {
+    "objectID": "diary/2025-08-05.html#todo",
+    "href": "diary/2025-08-05.html#todo",
+    "title": "Meeting on First MD Simulations",
+    "section": "TODO",
+    "text": "TODO\n\n[] Continue Nigel’s Stat Mech course\n[] Read (to the best of your understanding) appendix C of Frenkel and Smit\n[] Help yourself with any resources on the Fluctuation-Dissipation theorem, for example (Marconi et al.)[https://linkinghub.elsevier.com/retrieve/pii/S0370157308000768] (which is also in your Zotero)\n[] Prepare a short explanation of the Fluctuation-Dissipation theorem (a simple/simplified derivation would suffice)\n\nyou can produce some notes\nyou can produce a presentation if you prefer\nit can just be a blackboard presentation with the assistance of some notes\n\n[] Have a quick look at the Disordered Matter course https://fturci.github.io/course-disordered-matter"
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "hash": "3d5d05cadec7e8f0171708e90afd0478",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Tasks\n---\n\n\n\nThese are things you may want to start thinking about. Put an x inside the brackets when you are done.\n\n## Research\n\n- [] Get access to Statmech notes from Nigel\n- [] Explore Chapter 4 of Frenkel & Smit\n- [] Attempt to reproduce Case study 4 (simulation of a small Lenna-rdJOnes system in the NVT ensemble) in the same chapter using `hoomd-blue`\n- [] Clone this repository and try and  ake some changes in a separate branch, e.g.\n\n\n\n\n```{bash}\n    git clone https://github.com/FTurci/active-enhancement.git\n    git branch sams\n    git checkout sams\n```\n\n\n\n\n## Admin\n\n- [] Finalise contract\n- [] Get info about your budget code\n- [] Obtain workstation/laptop\n- [] Find about your future office\n\n\n",
+    "supporting": [
+      "tasks_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

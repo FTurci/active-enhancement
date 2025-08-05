@@ -1,0 +1,29 @@
+---
+title: "Meeting on First MD Simulations"
+author: "Francesco Turci"
+date: "2025-08-05"
+---
+
+## DONE
+
+- Sam succeded in reproducing Case study 4 and 5 of chapter 4 of Frenkel and Smit. These entail:
+    - working in NVE
+    - extracting energies
+    - setting up configurations
+    - measuring $g(r)$
+    - sampling the dynamics
+    - measure MSD and velocity [ACF](https://en.wikipedia.org/wiki/Autocorrelation)
+    
+
+## TODO
+
+- [] Continue Nigel's Stat Mech course 
+- [] Try and make **one** particle active (check `hoomd-blue` docs)
+- [] Read (to the best of your understanding) appendix C of Frenkel and Smit 
+- [] Help yourself with any resources on the Fluctuation-Dissipation theorem, for example (Marconi et al.)[https://linkinghub.elsevier.com/retrieve/pii/S0370157308000768] (which is also in your Zotero)
+- [] Prepare a short explanation of the Fluctuation-Dissipation theorem (a simple/simplified derivation would suffice)
+    - you can produce some notes
+    - you can produce a presentation if you prefer
+    - it can just be a blackboard presentation with the assistance of some notes
+- [] Have a quick look at the Disordered Matter course https://fturci.github.io/course-disordered-matter
+
