@@ -18,6 +18,7 @@ date: "2025-08-05"
 ## TODO
 
 - [] Continue Nigel's Stat Mech course 
+- [] Try and make **one** particle active (check `hoomd-blue` docs)
 - [] Read (to the best of your understanding) appendix C of Frenkel and Smit 
 - [] Help yourself with any resources on the Fluctuation-Dissipation theorem, for example (Marconi et al.)[https://linkinghub.elsevier.com/retrieve/pii/S0370157308000768] (which is also in your Zotero)
 - [] Prepare a short explanation of the Fluctuation-Dissipation theorem (a simple/simplified derivation would suffice)
